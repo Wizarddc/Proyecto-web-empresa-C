@@ -11,6 +11,7 @@ partidos_futbol = [
     {"equipos": "Napoli vs Milan", "hora": "17:30", "competición": "Betway Premiership"},
     {"equipos": "Napoli vs Lecce", "hora": "19:30", "competición": "Betway Premiership"},
     {"equipos": "Bodo vs Tottenham Hotspurs", "hora": "19:30", "competición": "Champions League"},
+    {"equipos": "Atletico de Madrid - Eintracht ", "hora": "22:30", "competición": "Champions League"},
 ]
 
 # Lista de partidos simulados de la NBA
